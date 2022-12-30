@@ -16,7 +16,7 @@
     "request-promise": "4.2.5"
   },
   "devDependencies": {
-    "mocha": "8.0.1",
+    "mocha": "8.4.0",
     "nodemon": "2.0.4",
     "should": "13.2.3",
     "supertest": "4.0.2"
